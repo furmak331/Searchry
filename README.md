@@ -14,7 +14,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/Searchry.git
+git clone https://github.com/furmak331/Searchry.git
 
 Navigate to the project folder:
 
