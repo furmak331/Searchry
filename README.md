@@ -30,11 +30,11 @@ bash
 
 Usage
 
-    Run the script:
+    Run the script :
 
     bash
 
-    python searchry.py
+    python app.py
 
     Enter your search query when prompted.
     The results will be fetched and saved as an Excel file (search_results.xlsx) in the project directory.
