@@ -32,7 +32,7 @@ Setup
 
     bash
 
-git clone https://github.com/yourusername/searchry.git
+git clone https://github.com/furmak331/Searchry.git
 cd searchry
 
 Configure API Credentials: Edit the script file (searchry.py) and replace the following:
